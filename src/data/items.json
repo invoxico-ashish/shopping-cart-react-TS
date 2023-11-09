@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Jeep",
+        "price": 100000,
+        "imgUrl": "/images/pexels-zsolt-joo-2882234.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mini",
+        "price": 100000,
+        "imgUrl": "/images/pexels-jacob-morch-457418.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Vintage",
+        "price": 100000,
+        "imgUrl": "/images/pexels-thuany-marcante-1805053.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mustang",
+        "price": 100000,
+        "imgUrl": "/images/pexels-cesar-perez-733745.jpg"
+    }
+]
